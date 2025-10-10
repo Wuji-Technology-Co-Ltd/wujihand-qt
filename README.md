@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![PySide6](https://img.shields.io/badge/PySide6-QT%20Framework-green.svg)](https://doc.qt.io/qtforpython/)
 
-[中文](#wuji-hand-qt-上位机) | **English**
+[中文](#wuji-hand-qt-上位机) | [English](#english)
 
 ---
 
