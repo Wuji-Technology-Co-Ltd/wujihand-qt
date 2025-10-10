@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)
 [![PySide6](https://img.shields.io/badge/PySide6-QT%20Framework-green.svg)](https://doc.qt.io/qtforpython/)
 
-[中文](#wuji-hand-qt-上位机) | [English](#english)
+[中文](#wujihand-qt-上位机) | [English](#english)
 
 ---
 
@@ -173,7 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 基于 PySide6 开发的 WujiHand 机械手控制和监控跨平台图形用户界面应用程序
 
-[中文](#wuji-hand-qt-上位机) | [English](#english)
+[中文](#wujihand-qt-上位机) | [English](#english)
 
 ## 项目简介
 
