@@ -19,9 +19,8 @@ WujiHand QT Host Computer is a cross-platform graphical user interface applicati
 - **状态监控**: 实时显示设备状态和传感器数据
 - **参数配置**: 灵活的设备参数配置和管理
 - **校准功能**: 内置设备校准和调试工具
-- **网络通信**: 支持TCP/UDP通信协议
-- **跨平台**: 支持Windows和Linux操作系统
--  **现代UI**: 基于PySide6的现代化用户界面
+- **网络通信**: 依赖wujihub通信中间件
+- **跨平台**: 支持Windows和Linux平台
 
 ### Features
 
@@ -29,9 +28,8 @@ WujiHand QT Host Computer is a cross-platform graphical user interface applicati
 - **Status Monitoring**: Real-time display of device status and sensor data
 - **Parameter Configuration**: Flexible device parameter configuration and management
 - **Calibration Functions**: Built-in device calibration and debugging tools
-- **Network Communication**: Support for TCP/UDP communication protocols
+- **Network Communication**: Depend on wujihub communication middleware
 - **Cross-platform**: Support for Windows and Linux operating systems
-- **Modern UI**: Modern user interface based on PySide6
 
 ## 系统要求 / System Requirements
 
@@ -45,7 +43,7 @@ WujiHand QT Host Computer is a cross-platform graphical user interface applicati
 
 ### Linux
 
-- Ubuntu 20.04+ 或其他兼容发行版
+- Ubuntu 20.04/22.04/24.04 +其他linux发行版
 - Python 3.13+
 - PySide6
 - 至少 4GB RAM
